@@ -1,0 +1,250 @@
+{
+  "salles": [
+    {
+      "id": 1,
+      "nom": "Salle des Étoiles",
+      "adresse": {
+        "rue": "123 Rue des Lumières",
+        "ville": "Paris",
+        "code_postal": "75001"
+      },
+      "capacite": 150,
+      "equipements": [
+        "projecteur",
+        "système de son",
+        "microphones",
+        "tables et chaises",
+        "cuisine équipée"
+      ],
+      "horaires_disponibilite": {
+        "lundi": "09:00 - 22:00",
+        "mardi": "09:00 - 22:00",
+        "mercredi": "09:00 - 22:00",
+        "jeudi": "09:00 - 22:00",
+        "vendredi": "09:00 - 23:00",
+        "samedi": "10:00 - 23:00",
+        "dimanche": "10:00 - 20:00"
+      },
+      "tarif": {
+        "jour_semaine": 500,
+        "weekend": 700
+      },
+      "description": "Une salle moderne au cœur de Paris, idéale pour des conférences et des événements privés. Équipée d'une cuisine complète pour des réceptions gastronomiques."
+    },
+    {
+      "id": 2,
+      "nom": "La Grande Salle",
+      "adresse": {
+        "rue": "456 Avenue des Champs",
+        "ville": "Lyon",
+        "code_postal": "69002"
+      },
+      "capacite": 300,
+      "equipements": [
+        "écran géant",
+        "système de son haute qualité",
+        "microphones sans fil",
+        "tables et chaises",
+        "bar"
+      ],
+      "horaires_disponibilite": {
+        "lundi": "10:00 - 20:00",
+        "mardi": "10:00 - 20:00",
+        "mercredi": "10:00 - 20:00",
+        "jeudi": "10:00 - 20:00",
+        "vendredi": "10:00 - 22:00",
+        "samedi": "10:00 - 22:00",
+        "dimanche": "fermé"
+      },
+      "tarif": {
+        "jour_semaine": 800,
+        "weekend": 1000
+      },
+      "description": "Une vaste salle à Lyon, parfaite pour des séminaires et des événements grandioses. Dotée d'un écran géant et d'un système de son haute qualité pour une expérience immersive."
+    },
+    {
+      "id": 3,
+      "nom": "Salle du Parc",
+      "adresse": {
+        "rue": "789 Boulevard du Parc",
+        "ville": "Marseille",
+        "code_postal": "13008"
+      },
+      "capacite": 200,
+      "equipements": [
+        "projecteur",
+        "système de son",
+        "tables et chaises",
+        "cuisine équipée",
+        "espace extérieur"
+      ],
+      "horaires_disponibilite": {
+        "lundi": "08:00 - 21:00",
+        "mardi": "08:00 - 21:00",
+        "mercredi": "08:00 - 21:00",
+        "jeudi": "08:00 - 21:00",
+        "vendredi": "08:00 - 22:00",
+        "samedi": "09:00 - 22:00",
+        "dimanche": "09:00 - 19:00"
+      },
+      "tarif": {
+        "jour_semaine": 600,
+        "weekend": 800
+      },
+      "description": "Un lieu spacieux à Marseille avec un espace extérieur idéal pour des événements en plein air. La cuisine équipée permet de préparer des repas pour vos invités."
+    },
+    {
+      "id": 4,
+      "nom": "Espace Festif",
+      "adresse": {
+        "rue": "101 Avenue des Fêtes",
+        "ville": "Toulouse",
+        "code_postal": "31000"
+      },
+      "capacite": 100,
+      "equipements": [
+        "système de son",
+        "microphones",
+        "tables et chaises",
+        "éclairage LED"
+      ],
+      "horaires_disponibilite": {
+        "lundi": "10:00 - 18:00",
+        "mardi": "10:00 - 18:00",
+        "mercredi": "10:00 - 18:00",
+        "jeudi": "10:00 - 18:00",
+        "vendredi": "10:00 - 20:00",
+        "samedi": "10:00 - 20:00",
+        "dimanche": "fermé"
+      },
+      "tarif": {
+        "jour_semaine": 400,
+        "weekend": 500
+      },
+      "description": "Un espace festif à Toulouse, parfait pour des événements intimes avec un éclairage LED moderne et un équipement audio de qualité."
+    },
+    {
+      "id": 5,
+      "nom": "Le Salon du Lac",
+      "adresse": {
+        "rue": "202 Route du Lac",
+        "ville": "Annecy",
+        "code_postal": "74000"
+      },
+      "capacite": 250,
+      "equipements": [
+        "écran projection",
+        "système audio",
+        "microphones",
+        "tables et chaises",
+        "espace lounge"
+      ],
+      "horaires_disponibilite": {
+        "lundi": "09:00 - 20:00",
+        "mardi": "09:00 - 20:00",
+        "mercredi": "09:00 - 20:00",
+        "jeudi": "09:00 - 20:00",
+        "vendredi": "09:00 - 22:00",
+        "samedi": "09:00 - 22:00",
+        "dimanche": "10:00 - 18:00"
+      },
+      "tarif": {
+        "jour_semaine": 700,
+        "weekend": 900
+      },
+      "description": "Un espace élégant à Annecy avec une vue imprenable sur le lac. Idéal pour des événements professionnels et des réceptions dans un cadre confortable."
+    },
+    {
+      "id": 6,
+      "nom": "Le Chalet des Montagnes",
+      "adresse": {
+        "rue": "303 Chemin des Alpes",
+        "ville": "Grenoble",
+        "code_postal": "38000"
+      },
+      "capacite": 120,
+      "equipements": [
+        "cheminée",
+        "système de son",
+        "tables et chaises en bois",
+        "écran de projection"
+      ],
+      "horaires_disponibilite": {
+        "lundi": "10:00 - 19:00",
+        "mardi": "10:00 - 19:00",
+        "mercredi": "10:00 - 19:00",
+        "jeudi": "10:00 - 19:00",
+        "vendredi": "10:00 - 21:00",
+        "samedi": "10:00 - 21:00",
+        "dimanche": "fermé"
+      },
+      "tarif": {
+        "jour_semaine": 350,
+        "weekend": 450
+      },
+      "description": "Un charmant chalet à Grenoble avec une cheminée et une ambiance chaleureuse. Parfait pour des réunions et des événements intimes en montagne."
+    },
+    {
+      "id": 7,
+      "nom": "Salle du Centre",
+      "adresse": {
+        "rue": "404 Rue du Centre",
+        "ville": "Nantes",
+        "code_postal": "44000"
+      },
+      "capacite": 180,
+      "equipements": [
+        "écran de projection",
+        "système audio",
+        "tables et chaises",
+        "cuisine",
+        "espace pour danse"
+      ],
+      "horaires_disponibilite": {
+        "lundi": "08:00 - 22:00",
+        "mardi": "08:00 - 22:00",
+        "mercredi": "08:00 - 22:00",
+        "jeudi": "08:00 - 22:00",
+        "vendredi": "08:00 - 23:00",
+        "samedi": "09:00 - 23:00",
+        "dimanche": "09:00 - 20:00"
+      },
+      "tarif": {
+        "jour_semaine": 550,
+        "weekend": 750
+      },
+      "description": "Une salle polyvalente à Nantes avec un espace pour la danse et une cuisine pour des événements variés. Idéale pour des fêtes et des conférences."
+    },
+    {
+      "id": 8,
+      "nom": "La Maison de Ville",
+      "adresse": {
+        "rue": "505 Boulevard de la Ville",
+        "ville": "Bordeaux",
+        "code_postal": "33000"
+      },
+      "capacite": 80,
+      "equipements": [
+        "système de son",
+        "microphones",
+        "tables et chaises",
+        "écran de projection",
+        "espace lounge"
+      ],
+      "horaires_disponibilite": {
+        "lundi": "09:00 - 18:00",
+        "mardi": "09:00 - 18:00",
+        "mercredi": "09:00 - 18:00",
+        "jeudi": "09:00 - 18:00",
+        "vendredi": "09:00 - 20:00",
+        "samedi": "09:00 - 20:00",
+        "dimanche": "fermé"
+      },
+      "tarif": {
+        "jour_semaine": 400,
+        "weekend": 500
+      },
+      "description": "Une salle élégante à Bordeaux, parfaite pour des petites réunions et des événements privés avec un espace lounge confortable."
+    }
+  ]
+}
