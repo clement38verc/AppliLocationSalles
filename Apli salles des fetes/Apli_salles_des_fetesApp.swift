@@ -11,7 +11,7 @@ import SwiftUI
 struct apli_Salles_des_fetesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashView()
         }
     }
 }

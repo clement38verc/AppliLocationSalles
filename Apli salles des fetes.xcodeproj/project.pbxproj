@@ -14,6 +14,8 @@
 		EB383E742C981A43006458DE /* Apli_salles_des_fetesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB383E732C981A43006458DE /* Apli_salles_des_fetesUITests.swift */; };
 		EB383E762C981A43006458DE /* Apli_salles_des_fetesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB383E752C981A43006458DE /* Apli_salles_des_fetesUITestsLaunchTests.swift */; };
 		EB383E832C981B64006458DE /* APIsalle.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB383E822C981B64006458DE /* APIsalle.swift */; };
+		EB9BBF8D2C9AD3FC00F1BF93 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB9BBF8C2C9AD3FC00F1BF93 /* SplashView.swift */; };
+		EB9BBF8F2C9B1ECD00F1BF93 /* SalleDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB9BBF8E2C9B1ECD00F1BF93 /* SalleDetailView.swift */; };
 		EBD40C702C984B2300424973 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD40C6F2C984B2300424973 /* ContentView.swift */; };
 		EBD40C752C987E5C00424973 /* Salles_de_fetes.json in Resources */ = {isa = PBXBuildFile; fileRef = EBD40C742C987E5C00424973 /* Salles_de_fetes.json */; };
 /* End PBXBuildFile section */
@@ -46,6 +48,8 @@
 		EB383E732C981A43006458DE /* Apli_salles_des_fetesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apli_salles_des_fetesUITests.swift; sourceTree = "<group>"; };
 		EB383E752C981A43006458DE /* Apli_salles_des_fetesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apli_salles_des_fetesUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		EB383E822C981B64006458DE /* APIsalle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIsalle.swift; sourceTree = "<group>"; };
+		EB9BBF8C2C9AD3FC00F1BF93 /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
+		EB9BBF8E2C9B1ECD00F1BF93 /* SalleDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SalleDetailView.swift; sourceTree = "<group>"; };
 		EBD40C6F2C984B2300424973 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EBD40C742C987E5C00424973 /* Salles_de_fetes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Salles_de_fetes.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -100,7 +104,9 @@
 			isa = PBXGroup;
 			children = (
 				EB383E582C981A42006458DE /* Apli_salles_des_fetesApp.swift */,
+				EB9BBF8C2C9AD3FC00F1BF93 /* SplashView.swift */,
 				EBD40C6F2C984B2300424973 /* ContentView.swift */,
+				EB9BBF8E2C9B1ECD00F1BF93 /* SalleDetailView.swift */,
 				EB383E822C981B64006458DE /* APIsalle.swift */,
 				EB383E5C2C981A43006458DE /* Assets.xcassets */,
 				EB383E5E2C981A43006458DE /* Preview Content */,
@@ -273,7 +279,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				EB383E832C981B64006458DE /* APIsalle.swift in Sources */,
+				EB9BBF8D2C9AD3FC00F1BF93 /* SplashView.swift in Sources */,
 				EB383E592C981A42006458DE /* Apli_salles_des_fetesApp.swift in Sources */,
+				EB9BBF8F2C9B1ECD00F1BF93 /* SalleDetailView.swift in Sources */,
 				EBD40C702C984B2300424973 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -245,6 +245,378 @@
         "weekend": 500
       },
       "description": "Une salle élégante à Bordeaux, parfaite pour des petites réunions et des événements privés avec un espace lounge confortable."
-    }
-  ]
+    },
+    
+        {
+            "id": 9,
+            "nom": "Espace Horizon",
+            "adresse": {
+                "rue": "606 Route d'Horizon",
+                "ville": "Strasbourg",
+                "code_postal": "67000"
+            },
+            "capacite": 220,
+            "equipements": [
+                "écran de projection",
+                "système audio",
+                "microphones",
+                "tables et chaises",
+                "espace lounge"
+            ],
+            "horaires_disponibilite": {
+                "lundi": "10:00 - 20:00",
+                "mardi": "10:00 - 20:00",
+                "mercredi": "10:00 - 20:00",
+                "jeudi": "10:00 - 20:00",
+                "vendredi": "10:00 - 22:00",
+                "samedi": "10:00 - 22:00",
+                "dimanche": "fermé"
+            },
+            "tarif": {
+                "jour_semaine": 600,
+                "weekend": 800
+            },
+            "description": "Un espace moderne avec une vue panoramique, idéal pour des conférences."
+        },
+        {
+            "id": 10,
+            "nom": "La Terrasse Panoramique",
+            "adresse": {
+                "rue": "707 Avenue du Panorama",
+                "ville": "Nice",
+                "code_postal": "06000"
+            },
+            "capacite": 170,
+            "equipements": [
+                "écran de projection",
+                "système audio",
+                "microphones",
+                "tables et chaises",
+                "terrasse extérieure"
+            ],
+            "horaires_disponibilite": {
+                "lundi": "10:00 - 19:00",
+                "mardi": "10:00 - 19:00",
+                "mercredi": "10:00 - 19:00",
+                "jeudi": "10:00 - 19:00",
+                "vendredi": "10:00 - 21:00",
+                "samedi": "10:00 - 21:00",
+                "dimanche": "fermé"
+            },
+            "tarif": {
+                "jour_semaine": 650,
+                "weekend": 850
+            },
+            "description": "Une terrasse ensoleillée offrant une vue imprenable sur la mer."
+        },
+        {
+            "id": 11,
+            "nom": "Le Pavillon des Arts",
+            "adresse": {
+                "rue": "808 Rue des Arts",
+                "ville": "Rennes",
+                "code_postal": "35000"
+            },
+            "capacite": 140,
+            "equipements": [
+                "écran de projection",
+                "système audio",
+                "microphones",
+                "tables et chaises",
+                "espace d'exposition"
+            ],
+            "horaires_disponibilite": {
+                "lundi": "09:00 - 18:00",
+                "mardi": "09:00 - 18:00",
+                "mercredi": "09:00 - 18:00",
+                "jeudi": "09:00 - 18:00",
+                "vendredi": "09:00 - 20:00",
+                "samedi": "09:00 - 20:00",
+                "dimanche": "fermé"
+            },
+            "tarif": {
+                "jour_semaine": 400,
+                "weekend": 550
+            },
+            "description": "Un lieu culturel parfait pour des événements artistiques."
+        },
+        {
+            "id": 12,
+            "nom": "Salle du Château",
+            "adresse": {
+                "rue": "909 Chemin du Château",
+                "ville": "Tours",
+                "code_postal": "37000"
+            },
+            "capacite": 300,
+            "equipements": [
+                "écran de projection",
+                "système audio",
+                "microphones",
+                "tables et chaises",
+                "espace extérieur"
+            ],
+            "horaires_disponibilite": {
+                "lundi": "09:00 - 22:00",
+                "mardi": "09:00 - 22:00",
+                "mercredi": "09:00 - 22:00",
+                "jeudi": "09:00 - 22:00",
+                "vendredi": "09:00 - 23:00",
+                "samedi": "10:00 - 23:00",
+                "dimanche": "10:00 - 20:00"
+            },
+            "tarif": {
+                "jour_semaine": 750,
+                "weekend": 950
+            },
+            "description": "Un château pittoresque, idéal pour des mariages et des réceptions."
+        },
+        {
+            "id": 13,
+            "nom": "Le Loft Moderne",
+            "adresse": {
+                "rue": "1010 Rue du Loft",
+                "ville": "Lille",
+                "code_postal": "59000"
+            },
+            "capacite": 130,
+            "equipements": [
+                "écran de projection",
+                "système audio",
+                "microphones",
+                "tables et chaises modernes",
+                "espace lounge"
+            ],
+            "horaires_disponibilite": {
+                "lundi": "10:00 - 18:00",
+                "mardi": "10:00 - 18:00",
+                "mercredi": "10:00 - 18:00",
+                "jeudi": "10:00 - 18:00",
+                "vendredi": "10:00 - 20:00",
+                "samedi": "10:00 - 20:00",
+                "dimanche": "fermé"
+            },
+            "tarif": {
+                "jour_semaine": 450,
+                "weekend": 600
+            },
+            "description": "Un loft élégant, parfait pour des événements privés ou des réunions."
+        },
+        {
+            "id": 14,
+            "nom": "Salle du Rivage",
+            "adresse": {
+                "rue": "1111 Boulevard du Rivage",
+                "ville": "La Rochelle",
+                "code_postal": "17000"
+            },
+            "capacite": 190,
+            "equipements": [
+                "écran de projection",
+                "système audio",
+                "microphones",
+                "tables et chaises",
+                "vue sur mer"
+            ],
+            "horaires_disponibilite": {
+                "lundi": "09:00 - 19:00",
+                "mardi": "09:00 - 19:00",
+                "mercredi": "09:00 - 19:00",
+                "jeudi": "09:00 - 19:00",
+                "vendredi": "09:00 - 21:00",
+                "samedi": "09:00 - 21:00",
+                "dimanche": "fermé"
+            },
+            "tarif": {
+                "jour_semaine": 550,
+                "weekend": 750
+            },
+            "description": "Une salle avec vue sur mer, idéale pour des séminaires."
+        },
+        {
+            "id": 15,
+            "nom": "La Salle Vintage",
+            "adresse": {
+                "rue": "1212 Rue du Vintage",
+                "ville": "Dijon",
+                "code_postal": "21000"
+            },
+            "capacite": 110,
+            "equipements": [
+                "système de son",
+                "microphones",
+                "tables et chaises vintage",
+                "éclairage tamisé"
+            ],
+            "horaires_disponibilite": {
+                "lundi": "10:00 - 17:00",
+                "mardi": "10:00 - 17:00",
+                "mercredi": "10:00 - 17:00",
+                "jeudi": "10:00 - 17:00",
+                "vendredi": "10:00 - 19:00",
+                "samedi": "10:00 - 19:00",
+                "dimanche": "fermé"
+            },
+            "tarif": {
+                "jour_semaine": 320,
+                "weekend": 420
+            },
+            "description": "Une salle au charme vintage, parfaite pour des événements intimistes."
+        },
+        {
+            "id": 16,
+            "nom": "Le Cube Art",
+            "adresse": {
+                "rue": "1313 Boulevard de l'Art",
+                "ville": "Aix-en-Provence",
+                "code_postal": "13090"
+            },
+            "capacite": 140,
+            "equipements": [
+                "écran de projection",
+                "système audio",
+                "microphones",
+                "tables et chaises",
+                "espace artistique"
+            ],
+            "horaires_disponibilite": {
+                "lundi": "09:00 - 18:00",
+                "mardi": "09:00 - 18:00",
+                "mercredi": "09:00 - 18:00",
+                "jeudi": "09:00 - 18:00",
+                "vendredi": "09:00 - 20:00",
+                "samedi": "09:00 - 20:00",
+                "dimanche": "fermé"
+            },
+            "tarif": {
+                "jour_semaine": 420,
+                "weekend": 550
+            },
+            "description": "Un espace créatif dédié aux arts, parfait pour des ateliers."
+        },
+        {
+            "id": 17,
+            "nom": "Salle du Verger",
+            "adresse": {
+                "rue": "1414 Chemin du Verger",
+                "ville": "Avignon",
+                "code_postal": "84000"
+            },
+            "capacite": 160,
+            "equipements": [
+                "écran de projection",
+                "système audio",
+                "microphones",
+                "tables et chaises",
+                "jardin"
+            ],
+            "horaires_disponibilite": {
+                "lundi": "10:00 - 18:00",
+                "mardi": "10:00 - 18:00",
+                "mercredi": "10:00 - 18:00",
+                "jeudi": "10:00 - 18:00",
+                "vendredi": "10:00 - 20:00",
+                "samedi": "10:00 - 20:00",
+                "dimanche": "fermé"
+            },
+            "tarif": {
+                "jour_semaine": 500,
+                "weekend": 650
+            },
+            "description": "Un cadre verdoyant, idéal pour des retraites ou des séminaires."
+        },
+        {
+            "id": 18,
+            "nom": "Le Panorama du Sud",
+            "adresse": {
+                "rue": "1515 Route du Sud",
+                "ville": "Montpellier",
+                "code_postal": "34000"
+            },
+            "capacite": 190,
+            "equipements": [
+                "écran de projection",
+                "système audio",
+                "microphones",
+                "tables et chaises",
+                "terrasse panoramique"
+            ],
+            "horaires_disponibilite": {
+                "lundi": "10:00 - 18:00",
+                "mardi": "10:00 - 18:00",
+                "mercredi": "10:00 - 18:00",
+                "jeudi": "10:00 - 18:00",
+                "vendredi": "10:00 - 20:00",
+                "samedi": "10:00 - 20:00",
+                "dimanche": "fermé"
+            },
+            "tarif": {
+                "jour_semaine": 550,
+                "weekend": 700
+            },
+            "description": "Une salle avec terrasse offrant une vue imprenable, idéale pour des événements festifs."
+        },
+        {
+            "id": 19,
+            "nom": "Le Palais du Soleil",
+            "adresse": {
+                "rue": "1616 Avenue du Soleil",
+                "ville": "Perpignan",
+                "code_postal": "66000"
+            },
+            "capacite": 250,
+            "equipements": [
+                "écran de projection",
+                "système audio",
+                "microphones",
+                "tables et chaises",
+                "espace extérieur"
+            ],
+            "horaires_disponibilite": {
+                "lundi": "09:00 - 20:00",
+                "mardi": "09:00 - 20:00",
+                "mercredi": "09:00 - 20:00",
+                "jeudi": "09:00 - 20:00",
+                "vendredi": "09:00 - 22:00",
+                "samedi": "09:00 - 22:00",
+                "dimanche": "fermé"
+            },
+            "tarif": {
+                "jour_semaine": 700,
+                "weekend": 900
+            },
+            "description": "Un espace spacieux et lumineux, idéal pour des grandes réceptions."
+        },
+        {
+            "id": 20,
+            "nom": "Le Loft Urbain",
+            "adresse": {
+                "rue": "1717 Rue de la Ville",
+                "ville": "Paris",
+                "code_postal": "75012"
+            },
+            "capacite": 140,
+            "equipements": [
+                "écran de projection",
+                "système audio",
+                "microphones",
+                "tables et chaises",
+                "espace lounge"
+            ],
+            "horaires_disponibilite": {
+                "lundi": "09:00 - 18:00",
+                "mardi": "09:00 - 18:00",
+                "mercredi": "09:00 - 18:00",
+                "jeudi": "09:00 - 18:00",
+                "vendredi": "09:00 - 20:00",
+                "samedi": "09:00 - 20:00",
+                "dimanche": "fermé"
+            },
+            "tarif": {
+                "jour_semaine": 450,
+                "weekend": 600
+            },
+            "description": "Un loft urbain chic, parfait pour des événements d'entreprise."
+        }
+    ]
 }
